@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color:lightblue;
+}
+
+h1 {
+    text-align:center;
+}
+
+h2 {
+    text-align:center;
+}
+
+h3 {
+    text-align:center;
+}
+
+.header{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    background-color: lightblue;
+    height: 100vh;
+    align-items: center;
+}
+
+.box .image img{
+    height: 450px;
+    width: 330px;
+    margin: 20px 20px 20px 20px;
+}
+.box{
+   
+}
+.box .btn{
+   height: 40px;
+   width: 330px;
+   margin-left: 20px;margin-top: auto;
+font-size: 20px;
+background-color: steelblue;
+color: black;
+
+}
