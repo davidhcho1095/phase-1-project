@@ -1,8 +1,5 @@
 # Random Dog Images Generator
 Your number 1 source for random dog images!
-``` Website Demo link: https://davidhcho1095.github.io/phase-1-project/ ```
-``` Video walkthrough: ```
-``` Blog post: ```
 
 
 ## What's the point?
@@ -15,6 +12,10 @@ The features of this webpage is relatively straightforward. At the center of the
 Next to the 'Next doggo' button, you have a comment box where you will be able to type a quick thought out of the current picture. When you post, it will start to create an unordered list for you to view all of your comments!
 
 I chose a minimal background color as to not draw attention from the dog pictures. The event listeners I'm utilizing are 'click', 'mouseover', and 'alert'
+
+Website Demo link: https://davidhcho1095.github.io/phase-1-project/
+Video walkthrough:
+Blog post:
 
 ## Questions?
 
