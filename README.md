@@ -7,9 +7,11 @@ Dogs are incredible animals and companions and have the ability to make almost e
 
 ## Features
 
-The features of this webpage is relatively straightforward. At the center of the screen is a picture of a random dog that changes everytime you refresh the page. Alternatively, to change the picture, you can also click the button to change the picture without refreshing the whole page. 
+The features of this webpage is relatively straightforward. At the center of the screen is a picture of a random dog that changes everytime you refresh the page. Alternatively, to change the picture, you can also hover over the button with your mouse to change the picture without refreshing the whole page. When you do so, don't be surprised if you see the dog saying something to you....
 
-I chose a minimal background color as to not draw attention from the dog pictures. The event listeners I'm utilizing are 'click', 'mouseover', and.....
+Next to the 'Next doggo' button, you have a comment box where you will be able to type a quick thought out of the current picture. When you post, it will start to create an unordered list for you to view all of your comments!
+
+I chose a minimal background color as to not draw attention from the dog pictures. The event listeners I'm utilizing are 'click', 'mouseover', and 'alert'
 
 ## Questions?
 
