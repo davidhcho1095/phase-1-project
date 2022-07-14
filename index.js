@@ -25,6 +25,6 @@ post.addEventListener("click", function() {
     document.getElementById("unordered").appendChild(li);
 });
 
-document.getElementById('dogbtn').addEventListener('mouseover', () => {
+document.getElementById('dogbtn').addEventListener('click', () => {
   alert('Bark!')
 })
