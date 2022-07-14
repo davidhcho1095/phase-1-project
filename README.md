@@ -14,7 +14,9 @@ Next to the 'Next doggo' button, you have a comment box where you will be able t
 I chose a minimal background color as to not draw attention from the dog pictures. The event listeners I'm utilizing are 'click', 'mouseover', and 'alert'
 
 Website Demo link: https://davidhcho1095.github.io/phase-1-project/
+
 Video walkthrough:
+
 Blog post:
 
 ## Questions?
