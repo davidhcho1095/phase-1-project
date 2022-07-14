@@ -9,7 +9,7 @@ Dogs are incredible animals and companions and have the ability to make almost e
 
 The features of this webpage is relatively straightforward. At the center of the screen is a picture of a random dog that changes everytime you refresh the page. Alternatively, to change the picture, you can also click the button to change the picture without refreshing the whole page. 
 
-I chose a minimal background color as to not draw attention from the dog pictures. The event listeners I'm utilizing are 'click', 'change', and.....
+I chose a minimal background color as to not draw attention from the dog pictures. The event listeners I'm utilizing are 'click', 'mouseover', and.....
 
 ## Questions?
 
