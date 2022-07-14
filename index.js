@@ -24,3 +24,7 @@ post.addEventListener("click", function() {
     li.appendChild(text);
     document.getElementById("unordered").appendChild(li);
 });
+
+document.getElementById('dogbtn').addEventListener('click', () => {
+  alert('Bark!')
+})
