@@ -2,6 +2,7 @@
 Your number 1 source for random dog images!
 Website Demo link: https://davidhcho1095.github.io/phase-1-project/
 Video walkthrough:
+Blog post: 
 
 
 ## What's the point?
