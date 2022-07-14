@@ -33,9 +33,7 @@ h3 {
     width: 600px;
     margin: 20px 20px 2px 20px;
 }
-.box{
-   
-}
+
 .box .btn{
    height: 40px;
    width: 600px;
@@ -45,9 +43,4 @@ background-color: orange;
 color: black;
 
 }
-
-.activated-heart {
-    color: red;
-  }
-
   
