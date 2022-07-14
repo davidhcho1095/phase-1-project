@@ -12,7 +12,7 @@ function showdata(dogimage){
     document.getElementById("dog").innerHTML = `<img src="${dogimage}">`
 }
 
-dogbtn.addEventListener("mouseover",() => {
+dogbtn.addEventListener("click",() => {
 getDog();
 });
 
@@ -25,6 +25,6 @@ post.addEventListener("click", function() {
     document.getElementById("unordered").appendChild(li);
 });
 
-document.getElementById('dogbtn').addEventListener('click', () => {
+document.getElementById('dogbtn').addEventListener('mouseover', () => {
   alert('Bark!')
 })
