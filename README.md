@@ -15,9 +15,9 @@ I chose a minimal background color as to not draw attention from the dog picture
 
 Website Demo link: https://davidhcho1095.github.io/phase-1-project/
 
-Video walkthrough:
+Video walkthrough: https://drive.google.com/file/d/1cxuKo7Nyq8JyxxPrk6tEXP0Q3eYGmvep/view?usp=sharing 
 
-Blog post:
+Blog post: https://medium.com/@davidhcho1001/phase-1-project-51b7f4a0151b
 
 ## Questions?
 
